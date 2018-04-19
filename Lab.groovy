@@ -1,7 +1,7 @@
 job('lab01') {
     description 'projet NodeJS01'
     scm {
-        git('URL GIT'){node ->
+        git('https://github.com/vberbinan/NodeJS.git'){node ->
             node / gitConfigName('vincent')
             node / gitConfigEmail('vincent@estiam.com')        
         }
