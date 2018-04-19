@@ -1,2 +1,2 @@
-# groovie
+# groovy
 Cours Devops / Jenkins 
